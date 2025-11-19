@@ -1,0 +1,19 @@
+{
+    "name": "Inspiration Matters",
+    "short_name": "Inspiration Matters",
+    "icons": [
+        {
+            "src": "/images/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#1abc9c",
+    "background_color": "#1abc9c",
+    "display": "standalone"
+}
